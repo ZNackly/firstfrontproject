@@ -1,0 +1,45 @@
+body {
+    min-width: 850px;
+  }
+  
+  h1 {
+    font-family: William, serif;
+    font-size: 31px;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-right:100px;
+    margin-bottom:100px;
+    margin-left :100px;
+  }
+  
+  h2 {
+    font-family: Inter, sans-serif;
+    font-size: 31px;
+    text-transform: uppercase;
+  }
+  
+  p {
+    font-family: Inter, sans-serif;
+  }
+  
+  img {
+    width: 210px;
+  }
+  
+  div {
+    width : 500px;
+    height : 500px;
+    border-radius: 100px;
+  }
+  .bgvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -9999;
+  }
+  
